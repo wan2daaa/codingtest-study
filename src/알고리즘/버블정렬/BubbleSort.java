@@ -28,7 +28,7 @@ public class BubbleSort {
       ArrayList<Integer> list = new ArrayList<>();
 
       for (int i = 0; i < 100; i++) {
-        list.add((int) (Math.random() *100));
+        list.add((int) (Math.random() % 100));
       }
 
       BubbleSort bubbleSort = new BubbleSort();
