@@ -1,4 +1,4 @@
-package 알고리즘.그래프.BFS;
+package 알고리즘.그래프.BFS_DFS;
 
 import java.util.ArrayList;
 import java.util.HashMap;
