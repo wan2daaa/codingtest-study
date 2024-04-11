@@ -1,4 +1,4 @@
-package 알고리즘.최소신장트리;
+package 알고리즘.최소신장트리.크루스칼;
 
 import java.util.ArrayList;
 import java.util.Arrays;
